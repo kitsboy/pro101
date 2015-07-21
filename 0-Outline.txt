@@ -1,0 +1,45 @@
+
+#Welcome to Programming 101
+
+### SECTION ONE: What is Programming? #
+  Define the following:
+    - What is a programming language?
+      ~ A way to convert human readable text into
+      machine language. Machine language can use the
+      processing power and memory of the computer.
+    - Each programming language has a grammer that is parsed or
+    compiled.
+    - The reserve words of a programming language are
+    the building blocks. On top of those building blocks you
+    define variables to hold information and functions to
+    manipulate those variables.
+    - All languages function in essentially the same way but
+    they differ in important ways:
+      - Abstraction
+      - Efficiency
+      - Read & Writability
+      - Pervasiveness
+      - Community
+      - Package Managers
+  # Intro to command line, running code.
+
+### SECTION TWO: Node & Node Package Manager ###
+# - finding and installing modules.
+# - the package.json file.
+# - briefly talk about how awesome git is.
+
+### SECTION THREE: Modules: express, browserify, jquery, coffeekup
+# Part 1: Web
+# 1. Webserver Module
+# 2. HTML Template Module
+# 3. Website Action Module: jquery & browserify
+
+# Part 2: SVG modules: raphael, D3
+# 1. - What is SVG (inkscape)
+# 2. - Vector Drawing Module
+# 3. - Data linking module: D3
+# https://www.youtube.com/watch?v=jbkSRLYSojo
+
+### SECTION FOUR: Online Learning Recommendations ###
+# - Udacity
+# - Code School

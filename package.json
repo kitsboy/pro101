@@ -1,0 +1,20 @@
+{
+  "name": "coffee",
+  "version": "1.0.0",
+  "description": "progamming101",
+  "main": "port.coffee",
+  "dependencies": {
+    "browserify": "^11.0.0",
+    "coffeeify": "^1.1.0",
+    "coffeekup": "^0.3.1",
+    "express": "^4.13.1",
+    "jquery": "^2.1.4",
+    "raphael": "^2.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "compile": "browserify -t coffeeify -o public/bundle.js 3.1jquery.coffee"
+  },
+  "author": "",
+  "license": "ISC"
+}

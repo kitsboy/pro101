@@ -1,0 +1,25 @@
+###
+
+RECOMMENDED: USE THE COMMAND LINE
+
+# Some command line commands you should know:
+# Navigation:
+ - cd (change directory)
+ - ls (list all the files)   flags: [-a show hidden -l show details]
+ - rm (remove file)          flags: [-rf delete folders]
+ - mkdir (create directory)
+ - touch (create file)
+ - '>' --> output to file
+ - '|' --> pipe to next command
+ - cat (read a file)
+ - grep (search text)
+
+After writing some code in a text file, you run that file using
+the apporpriate program.
+To compile and run a text file you use the terminal.
+###
+
+# variables can be used to hold values
+# they can be organized into modules.
+# Organizing a programming language into modules is programming
+# Using other peoples modules is the best way to get started.
