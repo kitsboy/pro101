@@ -38,7 +38,7 @@ html = ->
     rel:'stylesheet'
     href:"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"
   div ".container", ->
-    h1 "Hello World in a BROWSER"
+    h1 "Freddy is a spazz"
     form ->
       label "Name"
       input type:'text', class:"form-control"
@@ -52,7 +52,7 @@ html = ->
       input type:"submit"
     i = 0
     while i<10000
-      span "#{i} "
+      span "spazzzz"
       i++
   script src:'bundle.js', type:'text/javascript'
   style """
